@@ -1,0 +1,3780 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "items": 88,
+        "urls": {}
+    },
+    "results": [
+        {
+            "country": "France",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "7\""
+            ],
+            "label": [
+                "Studio 35",
+                "Théâtre Du Chêne Noir, Avignon"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz",
+                "Rock"
+            ],
+            "style": [
+                "Avantgarde",
+                "Experimental",
+                "Prog Rock"
+            ],
+            "id": 703570,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 703570,
+            "master_url": "https://api.discogs.com/masters/703570",
+            "uri": "/Le-Th%C3%A9%C3%A2tre-Du-Ch%C3%AAne-Noir-Miss-Madona/master/703570",
+            "catno": "BM 65",
+            "title": "Le Théâtre Du Chêne Noir* - Miss Madona",
+            "thumb": "https://img.discogs.com/j3OoTvPGEB8oV7lX1LRGwwQV6RU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1774685-1445495514-8321.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/1vvTi5c5E1zy-DfcTmQUon_4xnw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774685-1445495514-8321.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/703570",
+            "community": {
+                "want": 670,
+                "have": 123
+            }
+        },
+        {
+            "country": "France",
+            "year": "1974",
+            "format": [
+                "Vinyl",
+                "7\"",
+                "Single",
+                "45 RPM"
+            ],
+            "label": [
+                "Disques Flèche",
+                "Phonogram Paris",
+                "Edition Isabelle Musique",
+                "I.D.N."
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 541108,
+            "barcode": [
+                "6061 185 0 A Disco",
+                "6061 185 0 B² Disco",
+                "NA",
+                "SACEM SACD SDRM SGDL"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 541108,
+            "master_url": "https://api.discogs.com/masters/541108",
+            "uri": "/Alain-Chamfort-Madona-Madona/master/541108",
+            "catno": "6061 850",
+            "title": "Alain Chamfort - Madona Madona",
+            "thumb": "https://img.discogs.com/clFyMipxO2-k9UJSbWaYcRbo9Fg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4061915-1353957586-2917.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/crZpGE3_2BLR9dhNpYHMwo9rLs0=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4061915-1353957586-2917.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/541108",
+            "community": {
+                "want": 11,
+                "have": 231
+            }
+        },
+        {
+            "country": "France",
+            "year": "1956",
+            "format": [
+                "Vinyl",
+                "7\"",
+                "45 RPM",
+                "EP"
+            ],
+            "label": [
+                "Barclay"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 385245,
+            "barcode": [
+                "BIEM",
+                "7E BARC 32479 21",
+                "7E BARC 32480 21",
+                "7E-Barc. 32.479",
+                "7E-Barc. 32.480"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 385245,
+            "master_url": "https://api.discogs.com/masters/385245",
+            "uri": "/Dalida-Madona/master/385245",
+            "catno": "70034",
+            "title": "Dalida - Madona",
+            "thumb": "https://img.discogs.com/GokTi2Ju7_zZ__9cH4gpzAI7U6U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2920048-1370345240-9701.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/oqsarwYgigncfQJrtbnY7zl8oAY=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2920048-1370345240-9701.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/385245",
+            "community": {
+                "want": 67,
+                "have": 62
+            }
+        },
+        {
+            "country": "Germany",
+            "year": "1987",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "45 RPM",
+                "Maxi-Single"
+            ],
+            "label": [
+                "RCA"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Latin",
+                "Disco"
+            ],
+            "id": 362701,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 362701,
+            "master_url": "https://api.discogs.com/masters/362701",
+            "uri": "/Antonio-De-Plata-Madona-Madona/master/362701",
+            "catno": "PT41736",
+            "title": "Antonio De Plata - Madona, Madona",
+            "thumb": "https://img.discogs.com/YD5xSiN-4b52wczYEgCY-ZUmCWo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2473272-1328017796.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/JSxKYEWFSotEPyhxcFHpCHfulKA=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2473272-1328017796.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/362701",
+            "community": {
+                "want": 12,
+                "have": 48
+            }
+        },
+        {
+            "country": "Poland",
+            "year": "1999",
+            "format": [
+                "Cassette",
+                "Album"
+            ],
+            "label": [
+                "Rock'n'Roller"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Punk"
+            ],
+            "id": 556095,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 556095,
+            "master_url": "https://api.discogs.com/masters/556095",
+            "uri": "/Po-Prostu-Madona-D%C5%BCakson-Prins/master/556095",
+            "catno": "RNR 070",
+            "title": "Po Prostu - Madona + Dżakson = Prins",
+            "thumb": "https://img.discogs.com/W95wCnrFJzGaePCr9_BzhZtvmz8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3653080-1338996089-1732.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Oh7H_yKxxyjiqiszq74RjvUNeb0=/fit-in/379x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3653080-1338996089-1732.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/556095",
+            "community": {
+                "want": 25,
+                "have": 49
+            }
+        },
+        {
+            "country": "Jamaica",
+            "genre": [
+                "Reggae"
+            ],
+            "format": [
+                "Vinyl",
+                "7\"",
+                "45 RPM",
+                "Single"
+            ],
+            "style": [
+                "Reggae"
+            ],
+            "id": 1052593,
+            "label": [
+                "Crystal Records"
+            ],
+            "type": "master",
+            "barcode": [
+                "DH 2092 - 1",
+                "SB + 7020 + A "
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1052593,
+            "master_url": "https://api.discogs.com/masters/1052593",
+            "uri": "/Ramon-3-The-Crystalites-The-Crystalites-Chapter-Three-Psyhedelic-Train-Lady-Madona/master/1052593",
+            "catno": "A - 1068 / B - 1067",
+            "title": "Ramon (3) & The Crystalites / The Crystalites - Chapter Three Psyhedelic Train  / Lady Madona",
+            "thumb": "https://img.discogs.com/I0WYd1irEzta0aZvpizdvoS6OLw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7343100-1439361527-8749.mpo.jpg",
+            "cover_image": "https://img.discogs.com/865QTbdL4C0tGarg9osDqJKI1Fo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7343100-1439361527-8749.mpo.jpg",
+            "resource_url": "https://api.discogs.com/masters/1052593",
+            "community": {
+                "want": 76,
+                "have": 15
+            }
+        },
+        {
+            "country": "France",
+            "year": "1991",
+            "format": [
+                "Vinyl",
+                "12\""
+            ],
+            "label": [
+                "CBS"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Euro House"
+            ],
+            "id": 432917,
+            "barcode": [
+                "5099765656367"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 432917,
+            "master_url": "https://api.discogs.com/masters/432917",
+            "uri": "/Fax-Yourself-Ooh-La-Madona-Venutti-Dall-America/master/432917",
+            "catno": "656563 6",
+            "title": "Fax Yourself - Ooh-La Madona (Venutti D'all America)",
+            "thumb": "https://img.discogs.com/dqObhXp06ps7I4UMaBi0y2Vqa00=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-527361-1536075016-6603.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/KjZ4uB1J8m-t3uIErG_2cbn9Kz4=/fit-in/424x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-527361-1536075016-6603.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/432917",
+            "community": {
+                "want": 23,
+                "have": 41
+            }
+        },
+        {
+            "country": "Czechoslovakia",
+            "year": "1970",
+            "format": [
+                "Vinyl",
+                "7\"",
+                "45 RPM",
+                "Mono"
+            ],
+            "label": [
+                "Panton",
+                "Gramofonové Závody",
+                "Gramofonové Závody"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Folk",
+                "Vocal"
+            ],
+            "id": 906154,
+            "barcode": [
+                "PD 193",
+                "PD 194",
+                "BIEM",
+                "h",
+                "70 1"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 906154,
+            "master_url": "https://api.discogs.com/masters/906154",
+            "uri": "/Martha-Tena-Bob-Fr%C3%ADdl-Zp%C3%ADvej-Tu-P%C3%ADse%C5%88-Kouzelnou-Madona/master/906154",
+            "catno": "04 0280",
+            "title": "Martha Tena*, Bob Frídl - Zpívej Tu Píseň Kouzelnou • Madona",
+            "thumb": "https://img.discogs.com/SytKDEX3Jv4WjOtJ8UM9lbxI8uc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6932563-1504022314-1722.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/IE2H6nhpkiPmkiQ5bOUoQCMNew0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6932563-1504022314-1722.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/906154",
+            "community": {
+                "want": 4,
+                "have": 24
+            }
+        },
+        {
+            "country": "Middle East",
+            "year": "1993",
+            "format": [
+                "CD",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "Relax-In",
+                "Relax-In",
+                "Relax-In Lebanon",
+                "Fabelsound",
+                "U.A.P.",
+                "استوديو النهار",
+                "استوديو النهار",
+                "Sout El Hob Studios",
+                "Sout El Hob Studios"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [],
+            "id": 1493674,
+            "barcode": [
+                "FABELSOUND 93 [01] RELCD 521",
+                "SACEM SACD SDRM SGDL"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1493674,
+            "master_url": "https://api.discogs.com/masters/1493674",
+            "uri": "/%D9%85%D8%A7%D8%AF%D9%88%D9%86%D8%A7-Madona-%D9%86%D8%AE%D8%A8%D8%A9-%D9%85%D9%86-%D8%A3%D8%AC%D9%85%D9%84-%D8%A3%D8%BA%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9-%D9%85%D8%A7%D8%AF%D9%88/master/1493674",
+            "catno": "RELCD 521",
+            "title": "مادونا = Madona* - نخبة من أجمل أغاني الفنانة الاستعراضية مادونا - الجزء الأول = The Best Of Madona Vol. 1",
+            "thumb": "https://img.discogs.com/ff34KCElbAYyAnAExRLPHWXqpzg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13145750-1548864850-6257.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/ZY1HVJHVvk1zJ0KMJ9emCcHzDI8=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13145750-1548864850-6257.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1493674",
+            "community": {
+                "want": 6,
+                "have": 8
+            }
+        },
+        {
+            "country": "UK & Europe",
+            "year": "2000",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Mercury",
+                "Air Studios",
+                "Universal M & L, UK"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Rock"
+            ],
+            "style": [
+                "Modern Classical",
+                "Symphonic Rock"
+            ],
+            "id": 146391,
+            "barcode": [
+                "7 31454 27132 5",
+                "5427132 01 5",
+                "IFPI L135",
+                "IFPI 04A4",
+                "LC 0268",
+                "BIEM/MCPS",
+                "UN 900"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 146391,
+            "master_url": "https://api.discogs.com/masters/146391",
+            "uri": "/Era-Era-2/master/146391",
+            "catno": "542 713-2",
+            "title": "Era - Era 2",
+            "thumb": "https://img.discogs.com/xEZlZQRMEE6nuKPSodqf45_J4n4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-385730-1188613782.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/V3vTAm1l1UrDjHeS6rK7YeoBqsc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385730-1188613782.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/146391",
+            "community": {
+                "want": 133,
+                "have": 883
+            }
+        },
+        {
+            "country": "Yugoslavia",
+            "year": "1993",
+            "format": [
+                "CDr",
+                "Album"
+            ],
+            "label": [
+                "Produkcija \"Južni Vetar\""
+            ],
+            "type": "master",
+            "genre": [
+                "Pop",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Folk"
+            ],
+            "id": 1649832,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1649832,
+            "master_url": "https://api.discogs.com/masters/1649832",
+            "uri": "/Danijela-Terzi%C4%87-Kao-Madona/master/1649832",
+            "catno": "JV-9320",
+            "title": "Danijela Terzić - Kao Madona",
+            "thumb": "https://img.discogs.com/MVAbAMeb-OPUz1wgY3ysmQOWSvY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14510298-1576009338-3503.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/_U3p_aGPp-zs27IRLy8kZ0CxKJk=/fit-in/364x359/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14510298-1576009338-3503.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1649832",
+            "community": {
+                "want": 1,
+                "have": 3
+            }
+        },
+        {
+            "country": "France",
+            "year": "1956",
+            "format": [
+                "Vinyl",
+                "LP",
+                "10\"",
+                "Album"
+            ],
+            "label": [
+                "Barclay",
+                "Barclay",
+                "Pathé Marconi, Chatou",
+                "Pathé Marconi, Chatou",
+                "Imprimerie F.G. Richir"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop",
+                "Classical"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 523493,
+            "barcode": [
+                "xBarc. 66.647",
+                "xBarc. 66.648",
+                "XBARC33647 M3 179978",
+                "XBARC33648 M3 179977",
+                "BIEM",
+                "Medium"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 523493,
+            "master_url": "https://api.discogs.com/masters/523493",
+            "uri": "/Dalida-Son-Nom-Est-Dalida/master/523493",
+            "catno": "80.055",
+            "title": "Dalida - Son Nom Est Dalida",
+            "thumb": "https://img.discogs.com/LSvBoF1cm_ZAs_6QPbYL2GF7wqY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4964004-1576580427-8779.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/AnwkAaPntbsiqlGxjV8p9xkLt_8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4964004-1576580427-8779.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/523493",
+            "community": {
+                "want": 223,
+                "have": 159
+            }
+        },
+        {
+            "country": "Czechoslovakia",
+            "year": "1980",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Supraphon",
+                "Artia"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz",
+                "Rock"
+            ],
+            "style": [
+                "Jazz-Rock",
+                "Fusion"
+            ],
+            "id": 321275,
+            "barcode": [
+                "E 4903",
+                "E 4904",
+                "OSA",
+                "80 1",
+                "Kčs 44,-",
+                "H"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 321275,
+            "master_url": "https://api.discogs.com/masters/321275",
+            "uri": "/Martin-Kratochv%C3%ADl-Jazz-Q-Hodokvas/master/321275",
+            "catno": "1115 2604",
+            "title": "Martin Kratochvíl & Jazz Q - Hodokvas",
+            "thumb": "https://img.discogs.com/ZvoYdMHpiSqicTNoY8S-IT-u67s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14815661-1582283551-1682.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/nDZUzedPV4cykSIE2LloSZLM0YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14815661-1582283551-1682.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/321275",
+            "community": {
+                "want": 162,
+                "have": 256
+            }
+        },
+        {
+            "country": "Europe",
+            "year": "2000",
+            "format": [
+                "CD",
+                "Single"
+            ],
+            "label": [
+                "Mercury"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop",
+                "Classical"
+            ],
+            "style": [],
+            "id": 430338,
+            "barcode": [
+                "731456276328",
+                "LC 00268"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 430338,
+            "master_url": "https://api.discogs.com/masters/430338",
+            "uri": "/Era-Divano/master/430338",
+            "catno": "562 763-2",
+            "title": "Era - Divano",
+            "thumb": "https://img.discogs.com/9tYtpgXJf2FxfMoPy0Rppzaqm2g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3560167-1335286649.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/FBvK7UcRsef7gcQyJkSSVgdq0WE=/fit-in/592x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3560167-1335286649.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/430338",
+            "community": {
+                "want": 11,
+                "have": 33
+            }
+        },
+        {
+            "country": "Brazil",
+            "year": "1968",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Mono"
+            ],
+            "label": [
+                "Philips",
+                "Companhia Brasileira De Discos",
+                "Scatena"
+            ],
+            "type": "master",
+            "genre": [
+                "Latin",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "MPB"
+            ],
+            "id": 412843,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 412843,
+            "master_url": "https://api.discogs.com/masters/412843",
+            "uri": "/Rog%C3%A9rio-Duprat-A-Banda-Tropicalista-Do-Duprat/master/412843",
+            "catno": "R 765.048L",
+            "title": "Rogério Duprat - A Banda Tropicalista Do Duprat",
+            "thumb": "https://img.discogs.com/nuIMORKzYWFLKTiRLkKhbSwT-Lk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2927620-1460063066-1894.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/6LL_Xd5vuGkb9ALlhdBfakEPqh4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927620-1460063066-1894.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/412843",
+            "community": {
+                "want": 906,
+                "have": 184
+            }
+        },
+        {
+            "country": "France",
+            "year": "1975",
+            "format": [
+                "Vinyl",
+                "LP"
+            ],
+            "label": [
+                "Transatlantic Records",
+                "Distribution Sonopresse",
+                "Imprimerie Saint-Roch"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Country"
+            ],
+            "id": 562327,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 562327,
+            "master_url": "https://api.discogs.com/masters/562327",
+            "uri": "/Marcel-Dadi-And-Friends-Country-Show-Live-A-LOlympia/master/562327",
+            "catno": "TRA 89.527",
+            "title": "Marcel Dadi And Friends* - Country Show / Live A L'Olympia",
+            "thumb": "https://img.discogs.com/qqWqQ6LUc1yesZd_sl53YI_T8gc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6032248-1409326333-1475.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/gi86HVoZS1AzeY4Po_BvHrf9CR4=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6032248-1409326333-1475.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/562327",
+            "community": {
+                "want": 8,
+                "have": 308
+            }
+        },
+        {
+            "country": "Canada",
+            "genre": [
+                "Pop"
+            ],
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 1748895,
+            "label": [
+                "K-Tel International"
+            ],
+            "type": "master",
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1748895,
+            "master_url": "https://api.discogs.com/masters/1748895",
+            "uri": "/Various-22-Pr%C3%A9noms-Populaires/master/1748895",
+            "catno": "KF-115",
+            "title": "Various - 22 Prénoms Populaires",
+            "thumb": "https://img.discogs.com/KGiaMy-jNWZvq9TAyA71Vpv6hCI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8165644-1582180714-6465.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/fbflRWwMoDcYH4Wcvb7qpdTDiLg=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8165644-1582180714-6465.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1748895",
+            "community": {
+                "want": 4,
+                "have": 36
+            }
+        },
+        {
+            "country": "Italy",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "I Dischi Del Sole",
+                "Ariston S.R.L.",
+                "La Grafica Cremonese"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Chanson",
+                "Folk"
+            ],
+            "id": 480698,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 480698,
+            "master_url": "https://api.discogs.com/masters/480698",
+            "uri": "/Alberto-DAmico-Ariva-I-Barbari/master/480698",
+            "catno": "DS 1024/26",
+            "title": "Alberto D'Amico - Ariva I Barbari",
+            "thumb": "https://img.discogs.com/ZFbd4hRe-CtoFsHkKC2h3veTC_8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3947307-1350160117-8033.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/OYqVUoYygPzh9UJG6KBIYFeVuMo=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3947307-1350160117-8033.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/480698",
+            "community": {
+                "want": 17,
+                "have": 36
+            }
+        },
+        {
+            "country": "France",
+            "year": "2010",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Mercury"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Classical"
+            ],
+            "style": [
+                "New Age"
+            ],
+            "id": 1335504,
+            "barcode": [
+                "6 00753 28996 9",
+                "600753289969",
+                "IFPI LV27",
+                "IFPI 0152",
+                "[Universal logo x 4] 06007 532 899-6 02 + 52565483",
+                "Made in Germany by EDC B",
+                "SACEM / SDRM",
+                "LC 00268"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1335504,
+            "master_url": "https://api.discogs.com/masters/1335504",
+            "uri": "/Era-The-Essential/master/1335504",
+            "catno": "532 899 6",
+            "title": "Era - The Essential",
+            "thumb": "https://img.discogs.com/5F6nqCqSpbrfSIA-bjFUGbfPno8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2345649-1278481825.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/nmr0cnHJW2r2z_nnqO3Q1bHJE1E=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2345649-1278481825.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1335504",
+            "community": {
+                "want": 14,
+                "have": 78
+            }
+        },
+        {
+            "country": "Spain",
+            "year": "1981",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Ariola",
+                "Ariola Eurodisc S.A.",
+                "Estudios Moraleda",
+                "Studio Frémontel",
+                "Ariola Eurodisc S.A.",
+                "Studio Frémontel",
+                "Translab"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Folk"
+            ],
+            "id": 426346,
+            "barcode": [
+                "203170 A | 1",
+                "203170 B | 1",
+                "SGAE",
+                "203.170 I",
+                "B. 9.405-1981",
+                "6649"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 426346,
+            "master_url": "https://api.discogs.com/masters/426346",
+            "uri": "/Maria-Del-Mar-Bonet-Jard%C3%AD-Tancat/master/426346",
+            "catno": "I-203 170",
+            "title": "Maria Del Mar Bonet - Jardí Tancat",
+            "thumb": "https://img.discogs.com/H0dM6FFSNwusb0YNG_UIh_k52XE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3322383-1592892695-1748.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/swuBt78PARHMU6xaukB8F3xinbw=/fit-in/224x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3322383-1592892695-1748.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/426346",
+            "community": {
+                "want": 8,
+                "have": 99
+            }
+        },
+        {
+            "country": "US",
+            "year": "1963",
+            "format": [
+                "Vinyl",
+                "7\"",
+                "45 RPM",
+                "Promo"
+            ],
+            "label": [
+                "London Records",
+                "Burlington Music Corp.",
+                "Carl Fischer, Inc."
+            ],
+            "type": "master",
+            "genre": [
+                "Pop",
+                "Stage & Screen"
+            ],
+            "style": [
+                "Theme",
+                "Light Music"
+            ],
+            "id": 1402937,
+            "barcode": [
+                "ASCAP",
+                "DR 16565",
+                "DR 16503",
+                "DR-16565-1B",
+                "D̶R̶-̶1̶6̶5̶6̶5̶X̶-̶1̶B̶ DR 16503-1B"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1402937,
+            "master_url": "https://api.discogs.com/masters/1402937",
+            "uri": "/Mantovani-Greensleeves-My-Moonlight-Madona/master/1402937",
+            "catno": "45-LON9604V",
+            "title": "Mantovani - Greensleeves / My Moonlight Madona",
+            "thumb": "https://img.discogs.com/7nr04YlVnsJ8Oij4mcld_x_EVsM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12345539-1583860149-2411.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/UdqXFxHv3xHejoQmvmQyxCbdD9I=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12345539-1583860149-2411.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1402937",
+            "community": {
+                "want": 0,
+                "have": 0
+            }
+        },
+        {
+            "country": "Yugoslavia",
+            "year": "1993",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Diskos",
+                "Diskos"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Folk"
+            ],
+            "id": 1672220,
+            "barcode": [
+                "SOKOJ / SUMAJ",
+                "JUS.N.N.4.201"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1672220,
+            "master_url": "https://api.discogs.com/masters/1672220",
+            "uri": "/Sne%C5%BEana-Budanovi%C4%87-Folk-Madona/master/1672220",
+            "catno": "LPD-20001785",
+            "title": "Snežana Budanović - Folk Madona",
+            "thumb": "https://img.discogs.com/RISGeiZnPv0kVWfyV6rPgCEfhLg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14271952-1571173520-6285.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/j2Niu0crsvKkQO0fjTQYVW_oGZQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14271952-1571173520-6285.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1672220",
+            "community": {
+                "want": 0,
+                "have": 0
+            }
+        },
+        {
+            "country": "Greece",
+            "year": "1988",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Music-Box"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Italo-Disco"
+            ],
+            "id": 874110,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 874110,
+            "master_url": "https://api.discogs.com/masters/874110",
+            "uri": "/Various-Beach-Party-88/master/874110",
+            "catno": "SMB 40374",
+            "title": "Various - Beach Party '88",
+            "thumb": "https://img.discogs.com/WdwJU9RogFMDioZuVJSkHPoh2jw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3457226-1331121485.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/EWghbX_fyUZCMLWdQLCkjbglBcM=/fit-in/447x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457226-1331121485.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/874110",
+            "community": {
+                "want": 14,
+                "have": 9
+            }
+        },
+        {
+            "country": "Czech Republic",
+            "year": "2015",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Much Prefer Records"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz",
+                "Folk, World, & Country"
+            ],
+            "style": [],
+            "id": 1355025,
+            "barcode": [
+                "819162019702",
+                "IFPI LD02"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1355025,
+            "master_url": "https://api.discogs.com/masters/1355025",
+            "uri": "/Kristo-Rodzevski-Batania/master/1355025",
+            "catno": "MPR-001",
+            "title": "Kristo Rodzevski - Batania",
+            "thumb": "https://img.discogs.com/Dyk_SpUF0YJuN2AvI1P7wnIo_m0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11507260-1517577055-2910.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/X6FHbJY2qNKvtZiTyTPpngV6MAY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11507260-1517577055-2910.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1355025",
+            "community": {
+                "want": 9,
+                "have": 19
+            }
+        },
+        {
+            "country": "France",
+            "year": "1935",
+            "format": [
+                "Shellac",
+                "10\"",
+                "78 RPM"
+            ],
+            "label": [
+                "Columbia",
+                "Columbia Graphophone Company Ltd."
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [],
+            "id": 1255723,
+            "barcode": [
+                "BIEM",
+                "CL 5270",
+                "CL 5271"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1255723,
+            "master_url": "https://api.discogs.com/masters/1255723",
+            "uri": "/Jeanne-Aubert-Pour-Toi-Madona-Je-TAime--CEst-Tout/master/1255723",
+            "catno": "DF 1700",
+            "title": "Jeanne Aubert - Pour Toi, Madona / Je T'Aime ... C'Est Tout",
+            "thumb": "https://img.discogs.com/l_EYXTT2KVHunkutFmPs-hGZDBk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9110002-1474940292-6347.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/yx2jSpquMgMuZSNtZfMnoKiwXDk=/fit-in/582x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9110002-1474940292-6347.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1255723",
+            "community": {
+                "want": 0,
+                "have": 1
+            }
+        },
+        {
+            "country": "France",
+            "year": "2016",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Les Disques du Festival Permanent",
+                "Le Saule"
+            ],
+            "type": "master",
+            "genre": [
+                "Classical",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Medieval",
+                "Folk"
+            ],
+            "id": 1339581,
+            "barcode": [
+                "LDFP 002 LP/1 BGZ6447-01 A1 JP",
+                "LDFP 002 LP/1 BG 26447-01 B1 JP"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1339581,
+            "master_url": "https://api.discogs.com/masters/1339581",
+            "uri": "/Marion-Cousin-et-Gaspar-Claus-Jo-Estava-Que-MAbrasava/master/1339581",
+            "catno": "LDFP002LP",
+            "title": "Marion Cousin et Gaspar Claus - Jo Estava Que M'Abrasava",
+            "thumb": "https://img.discogs.com/kZ158-eS5qMPJyZls5eZ3sbU3J0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8858367-1470238455-5992.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/UWLud2PKObpbJiLOysLiwqLSnC8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8858367-1470238455-5992.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1339581",
+            "community": {
+                "want": 13,
+                "have": 22
+            }
+        },
+        {
+            "country": "UK",
+            "year": "1968",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Mono"
+            ],
+            "label": [
+                "Marble Arch Records",
+                "Garrod & Lofthouse",
+                "Garrod & Lofthouse"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [],
+            "id": 758659,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 758659,
+            "master_url": "https://api.discogs.com/masters/758659",
+            "uri": "/Various-Top-Chart-Busters-68/master/758659",
+            "catno": "MAL 845",
+            "title": "Various - Top Chart Busters '68",
+            "thumb": "https://img.discogs.com/fifyUkqsCj2wZVe9u2yXFxIdCiA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5941911-1406924685-2783.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/niZBuhOD1rBxFfXMRahQPBhl788=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5941911-1406924685-2783.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/758659",
+            "community": {
+                "want": 3,
+                "have": 29
+            }
+        },
+        {
+            "country": "Canada",
+            "genre": [
+                "Jazz"
+            ],
+            "format": [
+                "Vinyl",
+                "LP",
+                "Stereo"
+            ],
+            "style": [],
+            "id": 998963,
+            "label": [
+                "Tournesol"
+            ],
+            "type": "master",
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 998963,
+            "master_url": "https://api.discogs.com/masters/998963",
+            "uri": "/L%C3%A9onard-Duquette-Et-Son-Ensemble-Hawaien-Succ%C3%A8s-Hawaiens-Vol3/master/998963",
+            "catno": "STL-6023",
+            "title": "Léonard Duquette Et Son Ensemble Hawaien* - Succès Hawaiens, Vol.3",
+            "thumb": "https://img.discogs.com/Y4iloqd6yLcPZ3GJI2BqFagwN3c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8500687-1462871709-8592.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/YnMLk0i68p62aSiVEjqF3oR8Zdg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8500687-1462871709-8592.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/998963",
+            "community": {
+                "want": 26,
+                "have": 22
+            }
+        },
+        {
+            "country": "Czechoslovakia",
+            "year": "1992",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Slovart Records",
+                "Slovenský Rozhlas",
+                "Gramofonové Závody"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Pop"
+            ],
+            "style": [
+                "Europop"
+            ],
+            "id": 943455,
+            "barcode": [
+                "GZ D52915 SR 0001-2 311",
+                "BIEM",
+                "SOZA"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 943455,
+            "master_url": "https://api.discogs.com/masters/943455",
+            "uri": "/Robo-Grigorov-Midi-Ch%C3%BDba%C5%A1-Mi/master/943455",
+            "catno": "SR - 0001 - 2 - 311",
+            "title": "Robo Grigorov & Midi (5) - Chýbaš Mi...",
+            "thumb": "https://img.discogs.com/HeUwb2cdnApn0vqDSFzh857BgP4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7977164-1452794882-8695.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Lzaz212hCZYUOeaSRzTrJONCuas=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7977164-1452794882-8695.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/943455",
+            "community": {
+                "want": 36,
+                "have": 23
+            }
+        },
+        {
+            "country": "UK",
+            "year": "2012",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "The Orchestra Pit Recording Co.",
+                "The Orchestra Pit Recording Co.",
+                "The Orchestra Pit Recording Co.",
+                "LMC Sound",
+                "Summerhill Studio",
+                "Catasonic Studios",
+                "Anna Homler",
+                "Sylvia Hallett"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Avantgarde",
+                "Experimental",
+                "Free Improvisation"
+            ],
+            "id": 536586,
+            "barcode": [
+                "5 016959 003691"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 536586,
+            "master_url": "https://api.discogs.com/masters/536586",
+            "uri": "/Anna-Homler-Sylvia-Hallett-The-Many-Moods-Of-Bread-And-Shed/master/536586",
+            "catno": "OP14",
+            "title": "Anna Homler & Sylvia Hallett - The Many Moods Of Bread And Shed",
+            "thumb": "https://img.discogs.com/gsUDeNHAHbFpgc4bZFmPIO7UvcQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3639321-1338634356-2668.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/ZHb5o7ZiEo9HCdUFk11VOAMJ_Uc=/fit-in/360x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3639321-1338634356-2668.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/536586",
+            "community": {
+                "want": 26,
+                "have": 13
+            }
+        },
+        {
+            "country": "US",
+            "year": "1987",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Sea Breeze Jazz"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz"
+            ],
+            "style": [
+                "Contemporary Jazz"
+            ],
+            "id": 396816,
+            "barcode": [
+                "017231202523",
+                "CDSB2025 10001 MASTERED IN U.S.A. BY LASERVIDEO INC. CI05482"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 396816,
+            "master_url": "https://api.discogs.com/masters/396816",
+            "uri": "/Matt-Catingub-Hi-Tech-Big-Band/master/396816",
+            "catno": "CDSB-2025",
+            "title": "Matt Catingub - Hi-Tech Big Band",
+            "thumb": "https://img.discogs.com/VX9TbCuLFG5h665tFQbKRXPBQSk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3258655-1322775963.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/zcxAzKt7Rxveoz42PTUVsabMKjw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3258655-1322775963.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/396816",
+            "community": {
+                "want": 5,
+                "have": 42
+            }
+        },
+        {
+            "country": "Croatia",
+            "year": "1993",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Euroton Records",
+                "GIS-Skalinada",
+                "Studio Vilović"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Europop"
+            ],
+            "id": 639850,
+            "barcode": [
+                "ADD"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 639850,
+            "master_url": "https://api.discogs.com/masters/639850",
+            "uri": "/Magazin-Do%C5%A1lo-Vrijeme-/master/639850",
+            "catno": "none",
+            "title": "Magazin - Došlo Vrijeme ...",
+            "thumb": "https://img.discogs.com/1mXx5PrDuYslLvDstxozwbKySqc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3377445-1404665934-2310.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/UgUB0rxcv_7z7XUjXw3yZbT98w0=/fit-in/417x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3377445-1404665934-2310.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/639850",
+            "community": {
+                "want": 12,
+                "have": 7
+            }
+        },
+        {
+            "country": "Spain",
+            "year": "1987",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Di-fusió Mediterrània",
+                "Difusió Mediterránia"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Folk"
+            ],
+            "id": 921639,
+            "barcode": [
+                "V–651–1987"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 921639,
+            "master_url": "https://api.discogs.com/masters/921639",
+            "uri": "/C%C3%A0nem-Cave-Canem/master/921639",
+            "catno": "D.M.C. 1",
+            "title": "Cànem - Cave Canem",
+            "thumb": "https://img.discogs.com/czeJe9_4VSuyDQ6K4aQq2Ds5f8s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7726441-1448896766-4015.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/7A5PUF0P8AcDZFZI__gLIz672Hs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7726441-1448896766-4015.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/921639",
+            "community": {
+                "want": 31,
+                "have": 7
+            }
+        },
+        {
+            "country": "Czechoslovakia",
+            "year": "1989",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Opus"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Folk"
+            ],
+            "id": 1277553,
+            "barcode": [
+                "OE 5609",
+                "OE 5610",
+                "SOZA",
+                "BIEM",
+                "89 1"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1277553,
+            "master_url": "https://api.discogs.com/masters/1277553",
+            "uri": "/Zuzana-Homolov%C3%A1-%C4%8Cas-Odch%C3%A1dza-Z-Domu/master/1277553",
+            "catno": "9113 2030",
+            "title": "Zuzana Homolová - Čas Odchádza Z Domu",
+            "thumb": "https://img.discogs.com/Rr5VJnMXiow4wcfYADEg-UQ0Cn0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3042040-1432457551-5760.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/L6ctXAUVXb6rGGPiHq9ijDFcPl8=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3042040-1432457551-5760.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1277553",
+            "community": {
+                "want": 29,
+                "have": 35
+            }
+        },
+        {
+            "country": "Germany",
+            "year": "2014",
+            "format": [
+                "CD",
+                "Album",
+                "Promo"
+            ],
+            "label": [
+                "Echo Beach"
+            ],
+            "type": "master",
+            "genre": [
+                "Reggae"
+            ],
+            "style": [
+                "Dub"
+            ],
+            "id": 955934,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 955934,
+            "master_url": "https://api.discogs.com/masters/955934",
+            "uri": "/Dubmatix-In-Dub/master/955934",
+            "catno": "none",
+            "title": "Dubmatix - In Dub",
+            "thumb": "https://img.discogs.com/YGlXbmcS6p9pzivfG-h9FbOUCwY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8021963-1453644013-7628.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/YF7AGX4QvVvt1Yrmp-oM_VMecQY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8021963-1453644013-7628.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/955934",
+            "community": {
+                "want": 9,
+                "have": 21
+            }
+        },
+        {
+            "country": "France",
+            "year": "2006",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Le Chant Du Monde",
+                "Manivette Records",
+                "Manivette Records",
+                "Le Chant Du Monde",
+                "Le Chant Du Monde",
+                "Harmonia Mundi Distribution"
+            ],
+            "type": "master",
+            "genre": [
+                "Hip Hop",
+                "Pop",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Ragga HipHop",
+                "Chanson",
+                "Folk",
+                "Cajun",
+                "Zydeco"
+            ],
+            "id": 1385057,
+            "barcode": [
+                "7 94881 82692 6"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1385057,
+            "master_url": "https://api.discogs.com/masters/1385057",
+            "uri": "/Moussu-T-E-Lei-Jovents-Forever-Polida/master/1385057",
+            "catno": "274 1441",
+            "title": "Moussu T E Lei Jovents - Forever Polida",
+            "thumb": "https://img.discogs.com/uEPSiWohNL3pkXkxRrlnZNPrvCg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1738606-1240224303.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/vsbfXV4-DTVITnvMTmUiTCss8BQ=/fit-in/494x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1738606-1240224303.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1385057",
+            "community": {
+                "want": 6,
+                "have": 42
+            }
+        },
+        {
+            "country": "Russia",
+            "year": "2004",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Arih",
+                "ООО \"Сони Мьюзик Энтертейнмент\"",
+                "ООО \"Элайн-М\""
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Punk",
+                "Pop Rock"
+            ],
+            "id": 908860,
+            "barcode": [
+                "4 606817 698810",
+                "4606817698810"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 908860,
+            "master_url": "https://api.discogs.com/masters/908860",
+            "uri": "/Magnifico-Turbolentza-Export-Import/master/908860",
+            "catno": "EPC 517748 0",
+            "title": "Magnifico & Turbolentza (2) - Export Import",
+            "thumb": "https://img.discogs.com/tMJ86g8WEhLze1a_4RE8k1HZBgs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7681016-1446598493-5585.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/DPezIYCl_yzHJotS2vPtUXm6BjI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7681016-1446598493-5585.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/908860",
+            "community": {
+                "want": 7,
+                "have": 11
+            }
+        },
+        {
+            "country": "France",
+            "year": "2000",
+            "format": [
+                "All Media",
+                "Compilation",
+                "CD",
+                "Album",
+                "CD",
+                "Album",
+                "DVD",
+                "DVD-Video",
+                "Compilation"
+            ],
+            "label": [
+                "Mercury"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Rock"
+            ],
+            "style": [
+                "New Age"
+            ],
+            "id": 1729962,
+            "barcode": [
+                "7 31454 84422 2"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1729962,
+            "master_url": "https://api.discogs.com/masters/1729962",
+            "uri": "/Era-The-Legend/master/1729962",
+            "catno": "548 442-2",
+            "title": "Era - The Legend",
+            "thumb": "https://img.discogs.com/5WqBiaAjLhNeSAOiZe_XhtbpP3Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3044704-1313145124.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/JGTj9GRlm1DR8caerVHgVUmdJvM=/fit-in/560x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3044704-1313145124.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1729962",
+            "community": {
+                "want": 17,
+                "have": 25
+            }
+        },
+        {
+            "country": "Czech Republic",
+            "year": "1999",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Columbia",
+                "Columbia",
+                "Sony Music / Bonton s.r.o.",
+                "Sony Music / Bonton s.r.o.",
+                "Sono Studio",
+                "Sonopress"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock"
+            ],
+            "style": [
+                "Blues Rock",
+                "Folk Rock",
+                "Classic Rock"
+            ],
+            "id": 1211864,
+            "barcode": [
+                "5 099749 317024",
+                "5099749317024",
+                "[Sonopress logo] Z-9304/ 493170-2 A",
+                "IFPI 0730",
+                "IFPI LB45",
+                "OSA | BIEM",
+                "LC 0162"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1211864,
+            "master_url": "https://api.discogs.com/masters/1211864",
+            "uri": "/Vladim%C3%ADr-Mi%C5%A1%C3%ADk-Etc-N%C5%AF%C5%BE-Na-Hrdle/master/1211864",
+            "catno": "493170 2",
+            "title": "Vladimír Mišík & Etc… - Nůž Na Hrdle",
+            "thumb": "https://img.discogs.com/ZpS2Xcpy_q2clHa3N7fESAEK8Pw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2909656-1518365578-6768.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/GunIGmKe3WhNh5quaUrfrP8JjsU=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2909656-1518365578-6768.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1211864",
+            "community": {
+                "want": 5,
+                "have": 27
+            }
+        },
+        {
+            "country": "Czech Republic",
+            "year": "1994",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Popron Music",
+                "Popron Distribuce s.r.o.",
+                "Popron"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Pop"
+            ],
+            "style": [],
+            "id": 548900,
+            "barcode": [
+                "8596985403520"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 548900,
+            "master_url": "https://api.discogs.com/masters/548900",
+            "uri": "/Oskar-Petr-Krev-Bl%C3%A1to-Slzy/master/548900",
+            "catno": "54035-2",
+            "title": "Oskar Petr - Krev, Bláto, Slzy",
+            "thumb": "https://img.discogs.com/qWE2c9J6u5gsjrR5go3wbYn15kE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3807392-1359455133-7842.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/SkmKcdFoxRt0ccCZ5HGH3QvlM4E=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3807392-1359455133-7842.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/548900",
+            "community": {
+                "want": 4,
+                "have": 9
+            }
+        },
+        {
+            "country": "France",
+            "year": "1988",
+            "format": [
+                "CD"
+            ],
+            "label": [
+                "Hot Club Records",
+                "The Vintage Guitar Series"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Gypsy Jazz"
+            ],
+            "id": 1070070,
+            "barcode": [
+                "7029660040464"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1070070,
+            "master_url": "https://api.discogs.com/masters/1070070",
+            "uri": "/Matelo-Ferret-Tziganska%C3%AFa-And-Other-Rare-Recordings-1960-1978/master/1070070",
+            "catno": "HCRCD 46",
+            "title": "Matelo Ferret* - Tziganskaïa And Other Rare Recordings 1960-1978",
+            "thumb": "https://img.discogs.com/ZWJz3CUi27JGtZ7TMSYXEiglv0Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8617426-1465232971-7365.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/9LR2LX4IsRvcccU7pSX6ALyi_WY=/fit-in/307x301/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8617426-1465232971-7365.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1070070",
+            "community": {
+                "want": 24,
+                "have": 22
+            }
+        },
+        {
+            "country": "France",
+            "year": "1980",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Barclay",
+                "Barclay",
+                "Barclay",
+                "16 Grands Succès",
+                "Distribution Select",
+                "Glory"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 1243116,
+            "barcode": [
+                "2 22 200363 1 380 POLYGRAM",
+                "2 22 200363 2 380 POLYGRAM",
+                "200 363 1",
+                "200 363 2",
+                "BA-215",
+                "SACEM / SACD / SDRM / SGDL"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1243116,
+            "master_url": "https://api.discogs.com/masters/1243116",
+            "uri": "/Dalida-16-Grands-Succ%C3%A8s/master/1243116",
+            "catno": "200363",
+            "title": "Dalida - 16 Grands Succès",
+            "thumb": "https://img.discogs.com/QFerqnX_YmMoPPjiWCU2VaPBkAg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5435820-1491439304-5063.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/KetRsAIXA93Tpr8_--ZcMUEXtTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5435820-1491439304-5063.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1243116",
+            "community": {
+                "want": 24,
+                "have": 20
+            }
+        },
+        {
+            "country": "Croatia",
+            "year": "1998",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Orfej",
+                "Vjeverica"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 1096476,
+            "barcode": [
+                "3850245002720"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1096476,
+            "master_url": "https://api.discogs.com/masters/1096476",
+            "uri": "/Tedi-Spalato-Dalmatinska-Pismo-Moja/master/1096476",
+            "catno": "CD VV 21",
+            "title": "Tedi Spalato - Dalmatinska Pismo Moja",
+            "thumb": "https://img.discogs.com/FUetKrxH1tDziKM5X3rI35g7A74=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5200595-1541598537-8978.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/CWuQvaobDYgAfrA3swVL53RmqYs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5200595-1541598537-8978.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1096476",
+            "community": {
+                "want": 3,
+                "have": 13
+            }
+        },
+        {
+            "country": "Brazil",
+            "year": "2006",
+            "format": [
+                "CD",
+                "Album",
+                "Repress"
+            ],
+            "label": [
+                "Sony BMG Music Entertainment"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Latin",
+                "Funk / Soul",
+                "Blues",
+                "Pop",
+                "Classical",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "MPB"
+            ],
+            "id": 1640225,
+            "barcode": [
+                "886970462624",
+                "AB0025000"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1640225,
+            "master_url": "https://api.discogs.com/masters/1640225",
+            "uri": "/Ana-Carolina-Dois-Quartos/master/1640225",
+            "catno": "88697046262",
+            "title": "Ana Carolina - Dois Quartos",
+            "thumb": "https://img.discogs.com/HyP23d-gZDZ7snnXGXeYznZve_0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2074694-1262539177.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/fsbjJqEs8NG0exATrywu9Cq5am4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2074694-1262539177.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1640225",
+            "community": {
+                "want": 0,
+                "have": 65
+            }
+        },
+        {
+            "country": "Spain",
+            "year": "1991",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Blau"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Latin"
+            ],
+            "style": [],
+            "id": 1513285,
+            "barcode": [
+                "SGAE",
+                "PM. 405-1991"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1513285,
+            "master_url": "https://api.discogs.com/masters/1513285",
+            "uri": "/Ocults-Mallorca-Sempre/master/1513285",
+            "catno": "A-065",
+            "title": "Ocults - Mallorca Sempre!",
+            "thumb": "https://img.discogs.com/c52EPmFjjhtbJTsq65GI7fhtvFQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3797201-1344798855-5229.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/ER5fFcmSEF3WQHJHKSmaYZhM5GY=/fit-in/206x206/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3797201-1344798855-5229.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1513285",
+            "community": {
+                "want": 2,
+                "have": 15
+            }
+        },
+        {
+            "country": "Czechoslovakia",
+            "year": "1991",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Opus",
+                "Opus Studio, Pezinok",
+                "Gramofonové Závody",
+                "Gramofonové Závody"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Folk"
+            ],
+            "id": 629309,
+            "barcode": [
+                "OE 6061",
+                "OE 6062",
+                "& OE 6061/A 2",
+                "& OE 6062/A 5",
+                "8596991231117",
+                "SOZA",
+                "BIEM",
+                "91 1"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 629309,
+            "master_url": "https://api.discogs.com/masters/629309",
+            "uri": "/Homolov%C3%A1-Stiv%C3%ADn-Homolov%C3%A1-Stiv%C3%ADn/master/629309",
+            "catno": "91 2311-1 931",
+            "title": "Homolová* & Stivín* - Homolová & Stivín",
+            "thumb": "https://img.discogs.com/NRneGl6TbwyWZLuRiaNWaVOTZHI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11233019-1588767472-6231.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/8V3csCykuHh9nQzfEcZWaO0oOpI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11233019-1588767472-6231.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/629309",
+            "community": {
+                "want": 44,
+                "have": 15
+            }
+        },
+        {
+            "country": "France",
+            "year": "2005",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "XIII Bis Records"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 539490,
+            "barcode": [
+                "3 700226 405982",
+                "CA 370022640598CD1 @ 10/31/05 08:39:52 PM",
+                "IFPI L039",
+                "IFPI 1245",
+                "CA 370022640598CD2 @ 10/31/05 08:58:21 PM",
+                "IFPI L039",
+                "IFPI 1245"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 539490,
+            "master_url": "https://api.discogs.com/masters/539490",
+            "uri": "/Alain-Chamfort-Impromptu-Dans-Les-Jardins-Du-Luxembourg/master/539490",
+            "catno": "3700 22640 598",
+            "title": "Alain Chamfort - Impromptu Dans Les Jardins Du Luxembourg",
+            "thumb": "https://img.discogs.com/-WyaR6igVhKAQB2pWZEsb-V7lZk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1217776-1201466620.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/rceCxWIk3r9Gm9Kg1oDsznxmE2Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1217776-1201466620.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/539490",
+            "community": {
+                "want": 9,
+                "have": 74
+            }
+        },
+        {
+            "country": "Lithuania",
+            "year": "2006",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Intervid",
+                "Intervid",
+                "Intervid",
+                "Studija \"MA\""
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [],
+            "id": 909337,
+            "barcode": [
+                "4 779020 302710",
+                "4779020302710",
+                "Pus broliai Aliukai ir sesute \"Mandras\" IVCD 143 DIGI PRES media www.digipres.com.pl"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 909337,
+            "master_url": "https://api.discogs.com/masters/909337",
+            "uri": "/Pusbroliai-Aliukai-Ir-Sesut%C4%97-Mandras/master/909337",
+            "catno": "IVCD-143",
+            "title": "Pusbroliai Aliukai Ir Sesutė - Mandras",
+            "thumb": "https://img.discogs.com/luTYb7rXgjd_dUE2f9xgHOg7NgI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2701875-1446707284-8472.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/2FdEnpQjkOrYrfSLINx7dhA0OQs=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2701875-1446707284-8472.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/909337",
+            "community": {
+                "want": 0,
+                "have": 5
+            }
+        },
+        {
+            "country": "France",
+            "year": "1989",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Orlando",
+                "Carrere",
+                "Orlando",
+                "Vizir Music",
+                "Atalante",
+                "L.E.M.",
+                "Rideau Rouge",
+                "Francis Day",
+                "Fefee Music",
+                "CBS Songs",
+                "Briand",
+                "Chappell",
+                "Editions April-Music",
+                "Boona Music"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 514520,
+            "barcode": [
+                "3218030667101",
+                "I 66710 A",
+                "SACEM SACD SDRM SGDL",
+                "CA 294"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 514520,
+            "master_url": "https://api.discogs.com/masters/514520",
+            "uri": "/Dalida-Dalida-Mon-Amour/master/514520",
+            "catno": "66.710",
+            "title": "Dalida - Dalida Mon Amour",
+            "thumb": "https://img.discogs.com/GSWZ_gvzuEPEchIrslSiqmLwNC8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4222163-1358959901-5517.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/r4Ml-yhHkIlM74M9QADPkwUqe5A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4222163-1358959901-5517.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/514520",
+            "community": {
+                "want": 33,
+                "have": 130
+            }
+        },
+        {
+            "country": "France",
+            "year": "1987",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "PolyGram",
+                "Montreuil Offset",
+                "Polygram",
+                "Disques Barclay"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 538427,
+            "barcode": [
+                "0 42283 31101 5",
+                "SACEM SACD SDRM SGDL",
+                "PY 248"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 538427,
+            "master_url": "https://api.discogs.com/masters/538427",
+            "uri": "/Dalida-Bambino/master/538427",
+            "catno": "833 110-1",
+            "title": "Dalida - Bambino",
+            "thumb": "https://img.discogs.com/edUjkzZgLulRnOy7eJS527KGhx0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2695834-1358950209-6640.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/-lC4sdrYPAOsoBp5WT8alF3AHeA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2695834-1358950209-6640.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/538427",
+            "community": {
+                "want": 8,
+                "have": 97
+            }
+        },
+        {
+            "country": "Brazil",
+            "year": "2014",
+            "format": [
+                "CD"
+            ],
+            "label": [
+                "Sony Music"
+            ],
+            "type": "master",
+            "genre": [
+                "Latin"
+            ],
+            "style": [
+                "MPB"
+            ],
+            "id": 1030897,
+            "barcode": [
+                "8 88750 57272 1",
+                "AA0020000"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1030897,
+            "master_url": "https://api.discogs.com/masters/1030897",
+            "uri": "/Ana-Carolina-AC-Ao-Vivo/master/1030897",
+            "catno": "88875057272",
+            "title": "Ana Carolina - #AC Ao Vivo",
+            "thumb": "https://img.discogs.com/uSyWX-ge2T4Eh-Zrd2kaQXRfadY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8788989-1468794165-7341.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/H6ZpAh6IoPdVUPbQiAd-eWs9Stk=/fit-in/480x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8788989-1468794165-7341.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1030897",
+            "community": {
+                "want": 3,
+                "have": 15
+            }
+        },
+        {
+            "country": "Slovakia",
+            "year": "1994",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Ena Records",
+                "Ena Records",
+                "Ena Production s.r.o.",
+                "Ena Production s.r.o.",
+                "Studio Spirit Art",
+                "CDC Manufacturing"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Pop"
+            ],
+            "style": [
+                "Acoustic",
+                "Pop Rock"
+            ],
+            "id": 1266120,
+            "barcode": [
+                "CDC FR 0007 2311",
+                "SOZA",
+                "BIEM",
+                "ADD"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1266120,
+            "master_url": "https://api.discogs.com/masters/1266120",
+            "uri": "/Robo-Midi-14-Naj-Unplugged/master/1266120",
+            "catno": "ER 0007 2311",
+            "title": "Robo* & Midi (5) - 14 Naj... Unplugged",
+            "thumb": "https://img.discogs.com/ILTwj1OedH2TuqJoj1zpPl7PUxs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11125783-1510332273-1070.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/4GC7w13nfAP84bKK7aj7KsJmxMs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11125783-1510332273-1070.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1266120",
+            "community": {
+                "want": 13,
+                "have": 4
+            }
+        },
+        {
+            "country": "Canada",
+            "genre": [
+                "Pop"
+            ],
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Compilation"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 1145705,
+            "label": [
+                "Franco-Élite",
+                "Trans-Canada",
+                "Franco Disques Inc.",
+                "Trans-Canada"
+            ],
+            "type": "master",
+            "barcode": [
+                "CT-33893",
+                "CT-33894",
+                "CT-33895",
+                "CT-33896"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1145705,
+            "master_url": "https://api.discogs.com/masters/1145705",
+            "uri": "/Fernand-Gignac-10-Ans-De-Succ%C3%A8s/master/1145705",
+            "catno": "FG-10",
+            "title": "Fernand Gignac - 10 Ans De Succès",
+            "thumb": "https://img.discogs.com/QGImWra7EiG8Nqxam5MKmRirkkE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9468317-1481105464-9121.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/MITRPtnwNtxV0EehzHyuWoca5b0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9468317-1481105464-9121.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1145705",
+            "community": {
+                "want": 0,
+                "have": 42
+            }
+        },
+        {
+            "country": "Spain",
+            "year": "2001",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "World Muxxic"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [],
+            "id": 1170722,
+            "barcode": [
+                "8431588018422"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1170722,
+            "master_url": "https://api.discogs.com/masters/1170722",
+            "uri": "/Maria-Del-Mar-Bonet-Raixa/master/1170722",
+            "catno": "M-46169-2001",
+            "title": "Maria Del Mar Bonet - Raixa",
+            "thumb": "https://img.discogs.com/TwYxPxgbUarn6--IrxgbE6O6i98=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10195388-1493209369-9460.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/fnMRbURZZeoEWd70_PnvS5E6K5I=/fit-in/600x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10195388-1493209369-9460.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1170722",
+            "community": {
+                "want": 1,
+                "have": 24
+            }
+        },
+        {
+            "country": "Estonia",
+            "year": "1992",
+            "format": [
+                "Cassette",
+                "Album"
+            ],
+            "label": [
+                "Forte",
+                "Linnahall Studio"
+            ],
+            "type": "master",
+            "genre": [
+                "Classical"
+            ],
+            "style": [
+                "Renaissance"
+            ],
+            "id": 871012,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 871012,
+            "master_url": "https://api.discogs.com/masters/871012",
+            "uri": "/Hortus-Musicus-Siglo-De-Oro-The-Spanish-Golden-Age-Hispaania-Kuldne-Sajand/master/871012",
+            "catno": "FD 0030",
+            "title": "Hortus Musicus - Siglo De Oro / The Spanish Golden Age / Hispaania Kuldne Sajand",
+            "thumb": "https://img.discogs.com/D3LeC1pWM82lHVb4OYA7aPB5NCk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7343065-1439357293-3683.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Y5jwpT5ux8-Lphi5ZphI4kLFcJ0=/fit-in/600x895/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7343065-1439357293-3683.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/871012",
+            "community": {
+                "want": 6,
+                "have": 16
+            }
+        },
+        {
+            "country": "France",
+            "year": "1991",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Barclay"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 284455,
+            "barcode": [
+                "731451157226"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 284455,
+            "master_url": "https://api.discogs.com/masters/284455",
+            "uri": "/Dalida-Les-Ann%C3%A9es-Barclay/master/284455",
+            "catno": "511 572-2",
+            "title": "Dalida - Les Années Barclay",
+            "thumb": "https://img.discogs.com/92sc7qvtBY6_2FQYNHlAoYUHDKc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1985886-1256816670.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/XNbi8r23LhZMrgo4IYMhE0ATK7E=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1985886-1256816670.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/284455",
+            "community": {
+                "want": 11,
+                "have": 72
+            }
+        },
+        {
+            "country": "France",
+            "year": "1959",
+            "format": [
+                "Vinyl",
+                "LP"
+            ],
+            "label": [
+                "Barclay",
+                "Danse",
+                "Chappell",
+                "Imprimerie F. Richir",
+                "Pathé Marconi, Chatou",
+                "Pathé Marconi, Chatou"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz"
+            ],
+            "style": [],
+            "id": 1678625,
+            "barcode": [
+                "BIEM",
+                "Médium",
+                "Ⓜ",
+                "xBarcx 37.177",
+                "xBarcx 37.178",
+                "XBARCX37177 1 M6 185845",
+                "XBARCX37178 1 M6 185846"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1678625,
+            "master_url": "https://api.discogs.com/masters/1678625",
+            "uri": "/Eddie-Barclay-Et-Son-Grand-Orchestre-De-Danse-Succ%C3%A8s-58/master/1678625",
+            "catno": "82.110",
+            "title": "Eddie Barclay Et Son Grand Orchestre De Danse* - Succès 58",
+            "thumb": "https://img.discogs.com/w2XkiyN0RhMp4anoyLTQO47pW24=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8500293-1462861240-9999.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/xZrBPZmV676GJ2s_CzzaZFrQkCg=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8500293-1462861240-9999.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1678625",
+            "community": {
+                "want": 9,
+                "have": 8
+            }
+        },
+        {
+            "country": "Yugoslavia",
+            "year": "1986",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Jugoton",
+                "J.M. Sound Studio, Zagreb",
+                "J.M. Sound Studio, Zagreb"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Vocal"
+            ],
+            "id": 875404,
+            "barcode": [
+                "SOKOJ"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 875404,
+            "master_url": "https://api.discogs.com/masters/875404",
+            "uri": "/Darko-Domijan-Ti-Si-Mi-Sudbina/master/875404",
+            "catno": "LSY-62076",
+            "title": "Darko Domijan - Ti Si Mi Sudbina",
+            "thumb": "https://img.discogs.com/-EscQxdA5oEBXe44Nz_WlM5ruFQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2696302-1296946885.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/9a5TCGRVXLXgNxuSdu9PENQL9dM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2696302-1296946885.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/875404",
+            "community": {
+                "want": 0,
+                "have": 12
+            }
+        },
+        {
+            "country": "Czech Republic",
+            "year": "1995",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Panton",
+                "Supraphon a.s.",
+                "Sonopress"
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz",
+                "Rock"
+            ],
+            "style": [
+                "Jazz-Rock"
+            ],
+            "id": 1788209,
+            "barcode": [
+                "8596981143826",
+                "LC 1430",
+                "Sonopress M-3671/ 811438-2 B",
+                "IFPI 0774",
+                "ADD",
+                "BIEM OSA"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1788209,
+            "master_url": "https://api.discogs.com/masters/1788209",
+            "uri": "/Jazz-Q-The-Best-Of-Jazz-Q/master/1788209",
+            "catno": "81 1438-2 511",
+            "title": "Jazz Q - The Best Of Jazz Q",
+            "thumb": "https://img.discogs.com/RX9fbhin4-DnC1JbTs2xGXWlMlg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6487263-1441610665-4895.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/zCy0i6PWi-s_cZ-_nv-QAexeYiU=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6487263-1441610665-4895.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1788209",
+            "community": {
+                "want": 4,
+                "have": 2
+            }
+        },
+        {
+            "country": "Czech Republic",
+            "year": "1996",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Polydor"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Ballad",
+                "Vocal"
+            ],
+            "id": 1218379,
+            "barcode": [
+                "7314533417222",
+                "5334172  50614984 01 ›",
+                "MADE IN GERMANY BY PMDC  D",
+                "IFPI L003",
+                "IFPI 0110",
+                "OSA",
+                "BIEM",
+                "LC 0309",
+                "PY 900"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1218379,
+            "master_url": "https://api.discogs.com/masters/1218379",
+            "uri": "/Pavol-Habera-Svet-L%C3%A1sku-M%C3%A1/master/1218379",
+            "catno": "533417-2",
+            "title": "Pavol Habera - Svet Lásku Má",
+            "thumb": "https://img.discogs.com/tfVf8w5miuksnlEwG4pezySqDHQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6163814-1412665389-6256.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/b_bYJuUP3L3qTAlvPq4JvZA1so8=/fit-in/560x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6163814-1412665389-6256.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1218379",
+            "community": {
+                "want": 1,
+                "have": 10
+            }
+        },
+        {
+            "country": "France",
+            "year": "1991",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Barclay",
+                "Barclay",
+                "Barclay",
+                "PMDC, France"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 882747,
+            "barcode": [
+                "7 31451 11002 3",
+                "SACD SACEM SDRM SGDL",
+                "BA 900"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 882747,
+            "master_url": "https://api.discogs.com/masters/882747",
+            "uri": "/Dalida-5657-Bambino-Volume-1/master/882747",
+            "catno": "511 100-2",
+            "title": "Dalida - 56/57 - Bambino - Volume 1",
+            "thumb": "https://img.discogs.com/Phv0V1TpL0YB2Pz5ANgj_UovfhU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7451011-1441746807-4236.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/VeFmm1gqdpe44uyE8yXzgqvNaX8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7451011-1441746807-4236.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/882747",
+            "community": {
+                "want": 4,
+                "have": 16
+            }
+        },
+        {
+            "country": "US",
+            "genre": [
+                "Pop"
+            ],
+            "format": [
+                "Shellac",
+                "10\"",
+                "78 RPM",
+                "Album"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 1337361,
+            "label": [
+                "Columbia"
+            ],
+            "type": "master",
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1337361,
+            "master_url": "https://api.discogs.com/masters/1337361",
+            "uri": "/Tino-Rossi-Tino-Rossi-Sings/master/1337361",
+            "catno": "F-17",
+            "title": "Tino Rossi - Tino Rossi Sings",
+            "thumb": "https://img.discogs.com/bLPZ4thuAIFKom-_AfMLWSQwIVo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11773935-1522150149-1540.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Av2dYZM1YpjkQgZxKoR79UQ_4zw=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11773935-1522150149-1540.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1337361",
+            "community": {
+                "want": 6,
+                "have": 2
+            }
+        },
+        {
+            "country": "Croatia",
+            "year": "1992",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Croatia Records",
+                "Košarkaški Centar Dražen Petrović",
+                "Croatia Records",
+                "Croatia Records d.d.",
+                "Croatia Records",
+                "Croatia Records d.d."
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [],
+            "id": 656992,
+            "barcode": [
+                "3850125039464"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 656992,
+            "master_url": "https://api.discogs.com/masters/656992",
+            "uri": "/Magazin-Koncert-Mix-Najve%C4%87ih-Hitova/master/656992",
+            "catno": "CD D 5039464",
+            "title": "Magazin - Koncert - Mix Najvećih Hitova",
+            "thumb": "https://img.discogs.com/K_imbQqDlMUl0pqDyLHdpgFMGQQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12536529-1537189090-5826.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/E9zMQZ-C7plA1T3bSADN1Ju_44M=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12536529-1537189090-5826.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/656992",
+            "community": {
+                "want": 2,
+                "have": 11
+            }
+        },
+        {
+            "country": "France",
+            "year": "2009",
+            "format": [
+                "CDr",
+                "Album"
+            ],
+            "label": [
+                "Zero Egal Petit Interieur"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Rock"
+            ],
+            "style": [
+                "Noise",
+                "Avantgarde",
+                "Experimental",
+                "Ambient"
+            ],
+            "id": 338992,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 338992,
+            "master_url": "https://api.discogs.com/masters/338992",
+            "uri": "/Emboe-Colita-De-Rana-Soundtrack/master/338992",
+            "catno": "Zero011",
+            "title": "Emboe - Colita De Rana - Soundtrack",
+            "thumb": "https://img.discogs.com/_9GiqxksrSSsUOfJGJ__WhBjTYw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2140797-1436332855-5111.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/RtsOd7CYJzfv90fpyfQIstHNHCQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2140797-1436332855-5111.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/338992",
+            "community": {
+                "want": 0,
+                "have": 7
+            }
+        },
+        {
+            "country": "France",
+            "year": "1995",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "PolyGram Distribution",
+                "Master Serie",
+                "Polygram",
+                "Barclay",
+                "Polygram Distribution",
+                "Polygram Distribution",
+                "Éditions Ventura",
+                "Les Éditions Tropicales",
+                "Eds. Edimarton",
+                "EMA-Suisse",
+                "Éditions Eco Music",
+                "Éditions Mellinz",
+                "Éditions Caravelle",
+                "Paris Records",
+                "Éditions Méridian",
+                "Michel Legrand",
+                "Éditions Semi",
+                "Editions Carrousel",
+                "EMI Partnership France",
+                "Éditions Sim",
+                "Warner/Chappell",
+                "EMI Music Publishing France",
+                "PMDC, France"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 582586,
+            "barcode": [
+                "731452734822",
+                "PY 899",
+                "ADD",
+                "SACEM/SACD/SGDL/SDRM",
+                "527 348_2 00 L7 1*D",
+                "IFPI L004",
+                "IFPI 0257"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 582586,
+            "master_url": "https://api.discogs.com/masters/582586",
+            "uri": "/Dalida-Dalida-Vol2/master/582586",
+            "catno": "527 348 - 2",
+            "title": "Dalida - Dalida - Vol.2",
+            "thumb": "https://img.discogs.com/v-37UBqHMcY_-QU4Kb3QNzCTCWg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4794517-1375738381-8882.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/RFQdT6bbW6d03x4GZUCTofF0KKc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4794517-1375738381-8882.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/582586",
+            "community": {
+                "want": 7,
+                "have": 16
+            }
+        },
+        {
+            "country": "Italy",
+            "year": "2003",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Mana"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Folk",
+                "Népzene"
+            ],
+            "id": 1309912,
+            "barcode": [
+                "5099751069423"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1309912,
+            "master_url": "https://api.discogs.com/masters/1309912",
+            "uri": "/Various-Womens-Sacred-Chants/master/1309912",
+            "catno": "MANA 510694-2",
+            "title": "Various - Women's Sacred Chants",
+            "thumb": "https://img.discogs.com/QxFioeRC-qAkBkKQJD0sbzjz8YM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2142779-1266322087.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Az9zrBrz4RSRVB_NgZ5GBIOPWGw=/fit-in/340x312/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2142779-1266322087.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1309912",
+            "community": {
+                "want": 1,
+                "have": 7
+            }
+        },
+        {
+            "country": "Canada",
+            "genre": [
+                "Jazz",
+                "Pop"
+            ],
+            "format": [
+                "Vinyl",
+                "LP",
+                "Mono"
+            ],
+            "style": [],
+            "id": 998537,
+            "label": [
+                "Tournesol"
+            ],
+            "type": "master",
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 998537,
+            "master_url": "https://api.discogs.com/masters/998537",
+            "uri": "/Pierre-Nol%C3%A8s-Orgue-Pour-Danser-Avec-Robert-St-Jacques/master/998537",
+            "catno": "TL-6004",
+            "title": "Pierre Nolès - Orgue Pour Danser Avec Robert St-Jacques",
+            "thumb": "https://img.discogs.com/ZuzUlX2dP5oup9icJTK5sj06_mU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8496828-1462790094-5701.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/EzeIeGApLot9ZaTyFcM36k6u2UI=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8496828-1462790094-5701.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/998537",
+            "community": {
+                "want": 3,
+                "have": 9
+            }
+        },
+        {
+            "country": "Europe",
+            "year": "2003",
+            "format": [
+                "CD",
+                "Album",
+                "Compilation"
+            ],
+            "label": [
+                "Barclay",
+                "Barclay",
+                "Orlando",
+                "Barclay",
+                "Orlando",
+                "Metropolis Mastering"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [],
+            "id": 620888,
+            "barcode": [
+                "044007621226",
+                "LC 00126",
+                "BIEM/MCPS"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 620888,
+            "master_url": "https://api.discogs.com/masters/620888",
+            "uri": "/Dalida-Dalida-Chante-Le-7%C3%A8me-Art-Parlez-Moi-DAmour/master/620888",
+            "catno": "0044007621226",
+            "title": "Dalida - Dalida Chante Le 7ème Art - Parlez-Moi D'Amour",
+            "thumb": "https://img.discogs.com/N__w4RI0vK51XpkeULt1N7J9NH0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4735292-1373830592-6941.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/aQ1Le1b6Xc4x5oFG_i-wvX_ga84=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4735292-1373830592-6941.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/620888",
+            "community": {
+                "want": 6,
+                "have": 8
+            }
+        },
+        {
+            "country": "UK",
+            "year": "2012",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Soundway",
+                "The Carvery",
+                "MPO",
+                "Soundway Records Ltd.",
+                "Soundway Records Ltd.",
+                "Difference Music"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "African",
+                "Dancehall",
+                "Leftfield"
+            ],
+            "id": 524183,
+            "barcode": [
+                "5060091551152",
+                "The Carvery MPO SNDWLP038-A",
+                "MPO SNDWLP038-B"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 524183,
+            "master_url": "https://api.discogs.com/masters/524183",
+            "uri": "/Batida-Batida/master/524183",
+            "catno": "SNDWLP038",
+            "title": "Batida (4) - Batida",
+            "thumb": "https://img.discogs.com/-PwJNzLZLHX5h7qFPiwSeryO7c4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3847672-1532970820-1094.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/l6cK49-De32pxn7iYXp8lstzANs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3847672-1532970820-1094.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/524183",
+            "community": {
+                "want": 230,
+                "have": 352
+            }
+        },
+        {
+            "country": "US",
+            "year": "1964",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Stereo"
+            ],
+            "label": [
+                "Vanguard"
+            ],
+            "type": "master",
+            "genre": [
+                "Latin"
+            ],
+            "style": [],
+            "id": 1617305,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1617305,
+            "master_url": "https://api.discogs.com/masters/1617305",
+            "uri": "/Phyllis-Curtin-Cantigas-Y-Canciones-Of-Latin-America/master/1617305",
+            "catno": "VSD 71125",
+            "title": "Phyllis Curtin - Cantigas Y Canciones Of Latin America",
+            "thumb": "https://img.discogs.com/FzICj3ZrlCMqMhi0s_Jm56-KH4w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10419568-1497050116-3245.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/MEsVfyN98Ti8WXHAoooxwLF40cE=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10419568-1497050116-3245.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1617305",
+            "community": {
+                "want": 2,
+                "have": 10
+            }
+        },
+        {
+            "country": "Canada",
+            "year": "1961",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album",
+                "Mono"
+            ],
+            "label": [
+                "RCA Victor",
+                "RCA Victor Company, Ltd."
+            ],
+            "type": "master",
+            "genre": [
+                "Jazz"
+            ],
+            "style": [
+                "Easy Listening"
+            ],
+            "id": 1433082,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1433082,
+            "master_url": "https://api.discogs.com/masters/1433082",
+            "uri": "/Paul-Beauregard-Et-Son-Orchestre-Les-Rythmes-Favoris-De-Charlotte-Et-Jean-Durand/master/1433082",
+            "catno": "LCP-1048",
+            "title": "Paul Beauregard Et Son Orchestre - Les Rythmes Favoris De Charlotte Et Jean Durand",
+            "thumb": "https://img.discogs.com/0FMnjeB8lz8du6XTCGP_aTuXebc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12612645-1538590469-2884.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Xq4Pas2tkQLHd1hCqP_fC2Cy8rQ=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12612645-1538590469-2884.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1433082",
+            "community": {
+                "want": 1,
+                "have": 5
+            }
+        },
+        {
+            "country": "Europe",
+            "year": "2006",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Som Livre",
+                "Som Livre, Som e Imagens, Lda.",
+                "Som Livre, Som e Imagens, Lda.",
+                "Som Livre, Som e Imagens, Lda.",
+                "Difference Entertainment, Lda.",
+                "Som Livre, Som e Imagens, Lda.",
+                "Difference Entertainment, Lda."
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "African"
+            ],
+            "id": 1462076,
+            "barcode": [
+                "5604931095620"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1462076,
+            "master_url": "https://api.discogs.com/masters/1462076",
+            "uri": "/Various-Angola-As-100-Grandes-M%C3%BAsicas-Dos-Anos-60-E-70/master/1462076",
+            "catno": "SL 956-2",
+            "title": "Various - Angola- As 100 Grandes Músicas Dos Anos 60 E 70",
+            "thumb": "https://img.discogs.com/fg4SU_HaorEeP1kfT7A9BdJ-MLA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10949712-1507048679-1593.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/DVu8fsJNWMDwA9QksE-c197Hkp4=/fit-in/600x1070/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10949712-1507048679-1593.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1462076",
+            "community": {
+                "want": 51,
+                "have": 32
+            }
+        },
+        {
+            "country": "Czech Republic & Slovakia",
+            "year": "2010",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Universal Music Group",
+                "Universal Music",
+                "Universal Music s.r.o.",
+                "Universal Music s.r.o.",
+                "GZ Digital Media",
+                "GZ Digital Media"
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Pop"
+            ],
+            "style": [
+                "Pop Rock",
+                "Ballad"
+            ],
+            "id": 1054037,
+            "barcode": [
+                "6 02527 40578 0",
+                "602527405780",
+                "IFPI LD02",
+                "[Universal Logo] 00 6025 274 057-9 7 W50640",
+                "[Universal Logo] 00 6025 274 058-0 3 W42789",
+                "BIEM/SOZA",
+                "MK ZZ 01810",
+                "274057-9",
+                "274058-0"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1054037,
+            "master_url": "https://api.discogs.com/masters/1054037",
+            "uri": "/Pavol-Habera-The-Best-Of-Pavol-Habera/master/1054037",
+            "catno": "274057-8",
+            "title": "Pavol Habera - The Best Of Pavol Habera",
+            "thumb": "https://img.discogs.com/r33yc9884dRP6MPlzJxHs2wlE8M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6430021-1420469227-4054.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/xqFvVKk83hrqVY4JBtNEl74dEY0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6430021-1420469227-4054.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1054037",
+            "community": {
+                "want": 2,
+                "have": 9
+            }
+        },
+        {
+            "country": "Latvia",
+            "year": "2003",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Ingus Baušķenieka Ieraksti",
+                "Baltic Optical Disc",
+                "Incognito"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Rock",
+                "Pop"
+            ],
+            "style": [
+                "New Wave",
+                "Post-Punk"
+            ],
+            "id": 1097494,
+            "barcode": [
+                "4 751005 880031",
+                "BALTIC OPTICAL DISC  03-10/635-IBCD 201",
+                "AKKA/LAA – NCB – BIEM"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1097494,
+            "master_url": "https://api.discogs.com/masters/1097494",
+            "uri": "/Dzeltenie-Pastnieki-Bolder%C4%81jas-Dzelzsce%C4%BC%C5%A1/master/1097494",
+            "catno": "IBCD 201",
+            "title": "Dzeltenie Pastnieki - Bolderājas Dzelzsceļš",
+            "thumb": "https://img.discogs.com/FdD2FXc5vG8k_MZBKjQmOrRrlyM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1865948-1286049275.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/e8x6i9EISCgzBvpV7SQvNKMp_nY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1865948-1286049275.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1097494",
+            "community": {
+                "want": 69,
+                "have": 61
+            }
+        },
+        {
+            "country": "Serbia",
+            "year": "2017",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Jugoton Croatia Records",
+                "Gold Audio Video",
+                "Jugoton Croatia Records",
+                "Jugoton Croatia Records d.o.o.",
+                "Tonika",
+                "Magaza",
+                "Jugoton Croatia Records",
+                "Jugoton Croatia Records d.o.o.",
+                "Gold Audio Video d.o.o."
+            ],
+            "type": "master",
+            "genre": [
+                "Rock",
+                "Latin",
+                "Pop",
+                "Folk, World, & Country"
+            ],
+            "style": [],
+            "id": 1377966,
+            "barcode": [
+                "SOKOJ",
+                "9 788679 844996",
+                "978-86-7984-499-6",
+                "252247308",
+                "CD 2513/0191",
+                "IFPI LY18",
+                "IFPI ABB06",
+                "CD 2515/0193",
+                "IFPI LY18",
+                "IFPI ABB06"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1377966,
+            "master_url": "https://api.discogs.com/masters/1377966",
+            "uri": "/Various-The-Best-Of-2017/master/1377966",
+            "catno": "CD 0191",
+            "title": "Various - The Best Of 2017",
+            "thumb": "https://img.discogs.com/lNiVmAHDJufcdhlzP4e-wTYQ8LM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12124750-1571293617-8682.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/9_-cQnfIckMpUguRvHRid8AJBjM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12124750-1571293617-8682.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1377966",
+            "community": {
+                "want": 3,
+                "have": 9
+            }
+        },
+        {
+            "country": "Lebanon",
+            "year": "1975",
+            "format": [
+                "Vinyl",
+                "LP"
+            ],
+            "label": [
+                "Parlophone",
+                "Voix De L'Orient",
+                "Voix De L'Orient Series",
+                "The Graphophone Company Of Greece Limited",
+                "The Graphophone Company Of Greece Limited",
+                "A. Chahine & Fils",
+                "The Parlophone Co. Ltd.",
+                "Columbia, Athens"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country",
+                "Stage & Screen"
+            ],
+            "style": [],
+            "id": 1059947,
+            "barcode": [
+                "XVOX 101",
+                "XVOX 102",
+                "SACEM SACD SDRM SGDL",
+                "MT 3069",
+                "A/A 3069"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1059947,
+            "master_url": "https://api.discogs.com/masters/1059947",
+            "uri": "/Fairuz-Nasri-Shamseddeen-%D8%A3%D9%8A%D8%A7%D9%85-%D9%81%D8%AE%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D9%84-The-Days-Of-Fakhr-Eddeen-V/master/1059947",
+            "catno": "GVDL 206",
+            "title": "Fairuz, Nasri Shamseddeen* - أيام فخر الدين الجزء الأول The Days Of Fakhr Eddeen Volume 1",
+            "thumb": "https://img.discogs.com/6WndMVOailYb_WkZGljOOCdkYtA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5350433-1391211045-7140.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/mgv-AfqEjSrdpw95wNg737zB-e8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5350433-1391211045-7140.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1059947",
+            "community": {
+                "want": 35,
+                "have": 14
+            }
+        },
+        {
+            "country": "France",
+            "year": "2007",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Barclay",
+                "Orlando",
+                "Universal Music France"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson",
+                "Vocal"
+            ],
+            "id": 1742419,
+            "barcode": [
+                "6 02498 42198 7",
+                "602498421987"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1742419,
+            "master_url": "https://api.discogs.com/masters/1742419",
+            "uri": "/Dalida-Les-101-Plus-Belles-Chansons/master/1742419",
+            "catno": "984 219 8",
+            "title": "Dalida - Les 101 Plus Belles Chansons",
+            "thumb": "https://img.discogs.com/mt0j620mv1yAJna7Z0CakjYy_0I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10745013-1581662940-3130.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/-aXs9gWv_Vi9FrSFu19Z0a7pacI=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10745013-1581662940-3130.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1742419",
+            "community": {
+                "want": 3,
+                "have": 37
+            }
+        },
+        {
+            "country": "Czech Republic",
+            "year": "1998",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Avik"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [
+                "Country"
+            ],
+            "id": 1636314,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1636314,
+            "master_url": "https://api.discogs.com/masters/1636314",
+            "uri": "/Navz%C3%A1jem-Marcip%C3%A1n/master/1636314",
+            "catno": "AV 013398 - 2311",
+            "title": "Navzájem - Marcipán",
+            "thumb": "https://img.discogs.com/FVKkRGzsa2XjaPN71CTuDzbMUII=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13145233-1548857281-4908.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/0iA9bbpZjsd1YmALx0PwUp3HM6Q=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13145233-1548857281-4908.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1636314",
+            "community": {
+                "want": 0,
+                "have": 2
+            }
+        },
+        {
+            "country": "Croatia",
+            "year": "2000",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Croatia Records",
+                "Vjeverica"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop",
+                "Folk, World, & Country"
+            ],
+            "style": [],
+            "id": 1448852,
+            "barcode": [
+                "3850125329589"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1448852,
+            "master_url": "https://api.discogs.com/masters/1448852",
+            "uri": "/Tedi-Spalato-Live-In-Lisinski/master/1448852",
+            "catno": "CD 5329589",
+            "title": "Tedi Spalato - Live In Lisinski",
+            "thumb": "https://img.discogs.com/lmlZeLZsh9E5zAVU430dUZbGk4c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12706444-1540564383-7032.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/T-7--A7KJrXLEGpq5W0rtxbUacw=/fit-in/600x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12706444-1540564383-7032.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1448852",
+            "community": {
+                "want": 0,
+                "have": 4
+            }
+        },
+        {
+            "country": "France",
+            "year": "1990",
+            "format": [
+                "CD",
+                "Album",
+                "Compilation"
+            ],
+            "label": [
+                "PolyGram"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [],
+            "id": 1762118,
+            "barcode": [
+                "042284734127"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1762118,
+            "master_url": "https://api.discogs.com/masters/1762118",
+            "uri": "/Yoska-Gabor-Inoubliable-Soiree-Tzigane/master/1762118",
+            "catno": "847 341-2",
+            "title": "Yoska Gabor - Inoubliable Soiree Tzigane",
+            "thumb": "https://img.discogs.com/-_fRCkNbBmciTLIW0vtuTGBvwIE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7181155-1435716273-2438.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/25QDwZjLake3ORhZX1kc76jsGcs=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7181155-1435716273-2438.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1762118",
+            "community": {
+                "want": 0,
+                "have": 1
+            }
+        },
+        {
+            "country": "Czech Republic",
+            "year": "1993",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Panton"
+            ],
+            "type": "master",
+            "genre": [
+                "Folk, World, & Country"
+            ],
+            "style": [],
+            "id": 1484079,
+            "barcode": [
+                "8596981125624",
+                "LC 1430"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1484079,
+            "master_url": "https://api.discogs.com/masters/1484079",
+            "uri": "/Bob-Fr%C3%ADdl-N%C3%A1vraty/master/1484079",
+            "catno": "81 1256-2311",
+            "title": "Bob Frídl - Návraty",
+            "thumb": "https://img.discogs.com/bWE3NitnAOCsMVvxgx4uWJBRCMM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9340850-1478899863-5818.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/98XeUMGNju9sQfVMkRiZkiJXbTQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9340850-1478899863-5818.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1484079",
+            "community": {
+                "want": 0,
+                "have": 0
+            }
+        },
+        {
+            "country": "France",
+            "year": "1980",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Barclay",
+                "Barclay",
+                "Barclay",
+                "16 Grands Succès",
+                "Distribution Select",
+                "Glory"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 663169,
+            "barcode": [
+                "2 22 200363 1 380 POLYGRAM",
+                "2 22 200363 2 380 POLYGRAM",
+                "200 363 1",
+                "200 363 2",
+                "BA-215",
+                "SACEM / SACD / SDRM / SGDL"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 663169,
+            "master_url": "https://api.discogs.com/masters/663169",
+            "uri": "/Dalida-16-Grands-Succ%C3%A8s/master/663169",
+            "catno": "200363",
+            "title": "Dalida - 16 Grands Succès",
+            "thumb": "https://img.discogs.com/QFerqnX_YmMoPPjiWCU2VaPBkAg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5435820-1491439304-5063.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/KetRsAIXA93Tpr8_--ZcMUEXtTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5435820-1491439304-5063.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/663169",
+            "community": {
+                "want": 0,
+                "have": 0
+            }
+        },
+        {
+            "country": "France",
+            "year": "2009",
+            "format": [
+                "CD",
+                "DVD",
+                "DVD-Video"
+            ],
+            "label": [
+                "Les Nouvelles Propagandes",
+                "Minamata",
+                "Tiburce",
+                "Les Nouvelles Propagandes"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Industrial",
+                "Experimental"
+            ],
+            "id": 666729,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 666729,
+            "master_url": "https://api.discogs.com/masters/666729",
+            "uri": "/Minamata-Cyklator-The-Second-Outbreak-/master/666729",
+            "catno": "NP.022",
+            "title": "Minamata - Cyklator [The Second Outbreak [",
+            "thumb": "https://img.discogs.com/liV3VSK_-96VFOhXJGDw_4LQ8y0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2005692-1258069044.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/N9iqJjMPuQCrLM0bBoOz0WDjqCQ=/fit-in/306x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2005692-1258069044.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/666729",
+            "community": {
+                "want": 0,
+                "have": 0
+            }
+        },
+        {
+            "country": "France",
+            "year": "1991",
+            "format": [
+                "CD",
+                "Compilation",
+                "Box Set",
+                "Special Edition"
+            ],
+            "label": [
+                "Barclay"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Chanson"
+            ],
+            "id": 1287970,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1287970,
+            "master_url": "https://api.discogs.com/masters/1287970",
+            "uri": "/Dalida-Dalida--Les-Ann%C3%A9es-Barclay-Vol-1-10/master/1287970",
+            "catno": "7 31451 10992 8",
+            "title": "Dalida -  Dalida ‎– Les Années Barclay  Vol. 1-10",
+            "thumb": "https://img.discogs.com/U_K_Urz7CsTAGUs26p6P0d-bd5I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8167368-1499806130-9721.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Hd2KlqH7n8mxt144-fYp_qUb2ms=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8167368-1499806130-9721.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1287970",
+            "community": {
+                "want": 20,
+                "have": 70
+            }
+        },
+        {
+            "country": "Middle East",
+            "year": "1989",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Relax-In",
+                "منوعات ريلاكس إن",
+                "EMI Greece S.A.",
+                "EMI Greece S.A.",
+                "Relax-In Lebanon",
+                "Relax-In",
+                "استوديو بودي نعوم",
+                "Baalbeck Studios",
+                "استوديو النهار",
+                "Ammar Sound Studios",
+                "Polysound Studio"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop",
+                "Folk, World, & Country"
+            ],
+            "style": [],
+            "id": 1709369,
+            "barcode": [
+                "SACEM SACD SDRM SGDL",
+                "CD 506"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1709369,
+            "master_url": "https://api.discogs.com/masters/1709369",
+            "uri": "/Various-%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA-%D8%B1%D9%8A%D9%84%D8%A7%D9%83%D8%B3-%D8%A5%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-Best-Of-Relax-In-Volume-4/master/1709369",
+            "catno": "REL CD 506",
+            "title": "Various - منوعات ريلاكس إن الجزء الرابع = Best Of Relax-In Volume 4",
+            "thumb": "https://img.discogs.com/116fA1CwdYJM4qvcG_J93CPs6NQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15028927-1585725238-9514.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/W755c_BVYhfd3Iq0hUZOeKBgmdo=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15028927-1585725238-9514.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1709369",
+            "community": {
+                "want": 2,
+                "have": 3
+            }
+        },
+        {
+            "country": "France",
+            "year": "2012",
+            "format": [
+                "Box Set",
+                "Compilation",
+                "Limited Edition",
+                "Numbered",
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Universal Music France",
+                "Orlando",
+                "Barclay",
+                "Barclay"
+            ],
+            "type": "master",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Chanson",
+                "Ballad",
+                "Disco"
+            ],
+            "id": 1308027,
+            "barcode": [
+                "6 02527 91669 9",
+                "LC00126"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1308027,
+            "master_url": "https://api.discogs.com/masters/1308027",
+            "uri": "/Dalida-Les-Diamants-Sont-%C3%89ternels/master/1308027",
+            "catno": "279 166 9",
+            "title": "Dalida - Les Diamants Sont Éternels",
+            "thumb": "https://img.discogs.com/-bUJe6sKPiBM51GGIlidV0ZIhRU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11504974-1593431542-7506.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/iFjOY-dc3R4ZFME4w_6JDwDXJ3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11504974-1593431542-7506.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1308027",
+            "community": {
+                "want": 17,
+                "have": 52
+            }
+        },
+        {
+            "country": "Russia",
+            "genre": [
+                "Electronic"
+            ],
+            "format": [
+                "CD",
+                "CD-ROM",
+                "Compilation",
+                "Unofficial Release"
+            ],
+            "style": [
+                "Downtempo",
+                "Modern Classical",
+                "New Age"
+            ],
+            "id": 1742169,
+            "label": [
+                "Digital Records",
+                "Digital Records"
+            ],
+            "type": "master",
+            "barcode": [
+                "4 602016 006548",
+                "4602016006548"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1742169,
+            "master_url": "https://api.discogs.com/masters/1742169",
+            "uri": "/Era-Lesiem-MP3-Collection/master/1742169",
+            "catno": "none",
+            "title": "Era + Lesiem* - MP3 Collection",
+            "thumb": "https://img.discogs.com/Jc3KjdAwXd99j0bQjUpYhVm1ABg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15218502-1589832308-1792.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/ZdxEX6hz7iaI10ZV3I2c2kL3G3I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15218502-1589832308-1792.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1742169",
+            "community": {
+                "want": 0,
+                "have": 0
+            }
+        },
+        {
+            "country": "Europe",
+            "year": "2003",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Harmonia Mundi France",
+                "Harmonia Mundi",
+                "Harmonia Mundi USA",
+                "Harmonia Mundi USA",
+                "Harmonia Mundi 1+1",
+                "Production USA"
+            ],
+            "type": "master",
+            "genre": [
+                "Classical"
+            ],
+            "style": [
+                "Medieval"
+            ],
+            "id": 1748113,
+            "barcode": [
+                "093046735623",
+                "LC 7045"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1748113,
+            "master_url": "https://api.discogs.com/masters/1748113",
+            "uri": "/Theatre-Of-Voices-Paul-Hillier-Monastic-Chant-12th-13th-C-European-Sacred-Music/master/1748113",
+            "catno": "2907356.57",
+            "title": "Theatre Of Voices, Paul Hillier - Monastic Chant (12th & 13th C. European Sacred Music",
+            "thumb": "https://img.discogs.com/Z4_4CZf07wOujOo7KqRIb-wwolc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15401378-1590934613-3624.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/JHyHNr4SIdCSsxhOznJP-fNf9YY=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15401378-1590934613-3624.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1748113",
+            "community": {
+                "want": 0,
+                "have": 4
+            }
+        }
+    ]
+}

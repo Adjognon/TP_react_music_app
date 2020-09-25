@@ -1,0 +1,22 @@
+
+GET http://localhost:8080/recherches HTTP/1.1
+
+###
+
+//   703570 ==> master_id
+GET http://localhost:8080/recherches/432917 HTTP/1.1
+
+###
+
+GET http://localhost:8080/playlists/genres HTTP/1.1
+
+###
+
+POST http://localhost:8080/playlists/ajout HTTP/1.1
+content-type: application/json
+
+{"playlist_id": "2", "title": "Le Numéro De Miss Madona", "uri": "https://www.youtube.com/watch?v=3UUcbC1J7ik", "master_id": 703570}
+
+###
+
+GET http://localhost:8080/playlists/tracks/5 HTTP/1.1

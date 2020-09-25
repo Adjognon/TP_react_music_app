@@ -1,0 +1,98 @@
+{
+    "id": 703570,
+    "main_release": 1774685,
+    "most_recent_release": 15459808,
+    "resource_url": "https://api.discogs.com/masters/703570",
+    "uri": "https://www.discogs.com/Le-Th%C3%A9%C3%A2tre-Du-Ch%C3%AAne-Noir-Miss-Madona/master/703570",
+    "versions_url": "https://api.discogs.com/masters/703570/versions",
+    "main_release_url": "https://api.discogs.com/releases/1774685",
+    "most_recent_release_url": "https://api.discogs.com/releases/15459808",
+    "num_for_sale": 37,
+    "lowest_price": 10.71,
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https://img.discogs.com/1vvTi5c5E1zy-DfcTmQUon_4xnw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774685-1445495514-8321.jpeg.jpg",
+            "resource_url": "https://img.discogs.com/1vvTi5c5E1zy-DfcTmQUon_4xnw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774685-1445495514-8321.jpeg.jpg",
+            "uri150": "https://img.discogs.com/j3OoTvPGEB8oV7lX1LRGwwQV6RU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1774685-1445495514-8321.jpeg.jpg",
+            "width": 600,
+            "height": 595
+        },
+        {
+            "type": "secondary",
+            "uri": "https://img.discogs.com/5aJPTU4qu-NDe-Hl0PyA8KvkK0s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774685-1474877763-2319.jpeg.jpg",
+            "resource_url": "https://img.discogs.com/5aJPTU4qu-NDe-Hl0PyA8KvkK0s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774685-1474877763-2319.jpeg.jpg",
+            "uri150": "https://img.discogs.com/JA-0aNCvRnlXnzeORVe5OSBmBAg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1774685-1474877763-2319.jpeg.jpg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://img.discogs.com/F4MgZkCNlsBYnETrtdCvwS3P8Ww=/fit-in/351x353/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774685-1424339844-5805.jpeg.jpg",
+            "resource_url": "https://img.discogs.com/F4MgZkCNlsBYnETrtdCvwS3P8Ww=/fit-in/351x353/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774685-1424339844-5805.jpeg.jpg",
+            "uri150": "https://img.discogs.com/cvXQGLZxTkopF0aj3uzMsmnjAP4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1774685-1424339844-5805.jpeg.jpg",
+            "width": 351,
+            "height": 353
+        }
+    ],
+    "genres": [
+        "Jazz",
+        "Rock"
+    ],
+    "styles": [
+        "Avantgarde",
+        "Experimental",
+        "Prog Rock"
+    ],
+    "year": 1973,
+    "tracklist": [
+        {
+            "position": "A",
+            "type_": "track",
+            "title": "Le Chant Du Cirque",
+            "duration": ""
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "Le Numéro De Miss Madona",
+            "duration": ""
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "La Ballade De La Bête",
+            "duration": ""
+        }
+    ],
+    "artists": [
+        {
+            "name": "Théâtre Du Chêne Noir D'Avignon",
+            "anv": "Le Théâtre Du Chêne Noir",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 746529,
+            "resource_url": "https://api.discogs.com/artists/746529",
+            "thumbnail_url": "https://img.discogs.com/2AtgFoqRCtopsw4X5iH-j67-T0A=/600x872/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-746529-1415993860-8134.jpeg.jpg"
+        }
+    ],
+    "title": "Miss Madona",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https://www.youtube.com/watch?v=RtkycPH9_GY",
+            "title": "Chene Noir - Le Chant du Cirque",
+            "description": "https://www.discogs.com/Le-Théâtre-Du-Chêne-Noir-Miss-Madona/master/703570",
+            "duration": 329,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=3UUcbC1J7ik",
+            "title": "Chene Noir - Le Numero de Miss Madona",
+            "description": "https://www.discogs.com/Le-Théâtre-Du-Chêne-Noir-Miss-Madona/master/703570",
+            "duration": 193,
+            "embed": true
+        }
+    ]
+}

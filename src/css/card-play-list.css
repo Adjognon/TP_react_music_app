@@ -1,0 +1,84 @@
+#divContainerCardPlayList {
+    /* height: 40%; */
+    /* width: 20%; */
+    /* width: 30%; */
+}
+
+#divContainerCardPlayList:hover {
+    /* height: 40%; */
+    /* width: 20%; */
+    /* width: 30.5%; */
+    transition: all 0.3s;
+}
+
+#divContainerCardPlayList:hover:after {
+    z-index: -10;
+    animation: fill 1s forwards;
+    -webkit-animation: fill 1s forwards;
+    -moz-animation: fill 1s forwards;
+}
+
+#divContainerAllPlaylist {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+}
+
+#divContainerComponentPlayliste {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 180px;
+    /* flex-wrap: wrap; */
+}
+
+#divContainerVideoYoutube {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#cardPlaylist {}
+
+#imgLogoCardPlaylist {
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+
+#containerYoutubeAndButton {
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.playlist {
+    margin-top: 100px;
+}
+
+#containerNavigationAndTitre {
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#titreCardVideoYoutube {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#divNavigation {}
+
+.buttonNavigation {
+    width: 80px;
+    height: 40px;
+}
+
+#listeTitrePlaylist {
+    font-size: 2em;
+    color: black;
+    font-weight: bold;
+}
